@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff,3a7bd5&height=150&section=header&text=JANGWOO%20JUNG&fontSize=42&fontAlign=80&fontAlignY=35&desc=dddd&descSize=25&descAlign=85&descAlignY=62&theme=soft" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff,3a7bd5&height=150&section=header&text=JANGWOO%20JUNG&fontSize=42&fontAlign=80&fontAlignY=35&desc=Jayden's%20Github&descSize=23&descAlign=85&descAlignY=62&theme=soft" />
 
 <div align=center>
 <h3>안녕하세요! 정장우입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
