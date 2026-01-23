@@ -5,21 +5,32 @@
 </h3>
 
 📚 Tech Stack 📚
-  
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![js](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![js](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<a href='https://react.dev/'>![js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)</a>
-<a href='https://axios-http.com/kr/docs/intro'>![js](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white)</a>
-<a href='https://recoiljs.org/ko/'>![js](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white)</a>
-<a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
+<a href="https://www.java.com/">![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)</a>
+<a href="https://go.dev/">![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)</a>
+<a href="https://www.gnu.org/software/bash/">![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)</a>
 
+<br>
+<a href="https://spring.io/">![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)</a>
+<a href="https://spring.io/projects/spring-boot">![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)</a>
+<a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)</a>
+<a href="https://www.mongodb.com/">![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)</a>
 
-<a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
-![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+<br>
+<a href="https://aws.amazon.com/">![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)</a>
+<a href="https://cloud.google.com/">![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)</a>
+<a href="https://www.oracle.com/cloud/">![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)</a>
+
+<br>
+<a href="https://www.terraform.io/">![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)</a>
+<a href="https://kubernetes.io/">![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)</a>
+<a href="https://argoproj.github.io/cd/">![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argocd&logoColor=white)</a>
+<a href="https://www.jenkins.io/">![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)</a>
+<a href="https://grafana.com/">![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)</a>
+<a href="https://prometheus.io/">![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)</a>
+<a href="https://www.nginx.com/">![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)</a>
+
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smallt0wn&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
